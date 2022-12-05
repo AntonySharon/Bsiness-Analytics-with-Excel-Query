@@ -7,4 +7,4 @@ There are four phases to using Power Query:
   * Combine    Integrate data from multiple sources to get a unique view into the data
   * Load   Complete your query and load it into a worksheet or Data Model and periodically refresh it.
   
-  ![image](https://user-images.githubusercontent.com/102729484/205674727-4878f2e1-7a46-454b-b8f5-46b2192d14cf.png)
+    ![image](https://user-images.githubusercontent.com/102729484/205674727-4878f2e1-7a46-454b-b8f5-46b2192d14cf.png)
